@@ -1,2 +1,2 @@
 # Html-exercicios
-exercicios básicos de html feitos durantes as aulas do Curso em Video de Js e Html5
+exercicios básicos de html feitos durante as aulas do Curso em Video de Js e Html5
